@@ -19,7 +19,7 @@ The core of this initiative is a collaborative effort to gather data on various 
 1. Prioritizing User Requirements: A well-defined framework will be established to weigh different APIM features based on user priorities.
 1. Providers Evaluation: Information on each provider will be collected through product documentation, vendor interviews, and user experience surveys.
 
-You can find all this information in this project: [Open API Platform Benchmarking.xlsx] (https://github.com/darolmar/api_management_benchmarking/blob/main/Open%20API%20Platform%20Benchmarking.xlsx)
+You can find all this information in this project: [Open API Platform Benchmarking.xlsx](https://github.com/darolmar/api_management_benchmarking/blob/main/Open%20API%20Platform%20Benchmarking.xlsx)
 
 ## Get Involved!
 This project thrives on community participation. Here's how you can contribute:
